@@ -1,5 +1,5 @@
 h1 {
-  color: darkred;
+  color: yellow;
   font-style: italic;
 }
 
@@ -13,7 +13,7 @@ h1 {
 } */
 
 body {
-  background-color: yellow;
+  background-color: limegreen;
   font-family: sans-serif,cursive;
   text-align: center;
 }
