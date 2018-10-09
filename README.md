@@ -24,4 +24,4 @@ CSS
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 Fausto Guillen, Charles Robertson 
