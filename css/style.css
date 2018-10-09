@@ -1,0 +1,19 @@
+h1 {
+  color: darkred;
+  font-style: italic;
+}
+
+/* h2 {
+  font-style: italic;
+  color: red;
+} */
+
+/* {
+  color: crimson;
+} */
+
+body {
+  background-color: yellow;
+  font-family: sans-serif,cursive;
+  text-align: center;
+}
